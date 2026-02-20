@@ -1,4 +1,4 @@
-# ✔ Eda Verky
+# 👩‍💻 Eda Verky
 
 **`Desenvolvedora`**
 
@@ -58,10 +58,3 @@ Me chamo Eda Verky, tenho 21 anos e sou natural do Pará. Sou apaixonada por tec
 
 <br/>
 <br/>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Edaverky&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edaverky&layout=compact&theme=tokyonight" />
-</p>
