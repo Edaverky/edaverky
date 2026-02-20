@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eda Verky
+# ✔ Eda Verky
 
 **`Desenvolvedora`**
 
