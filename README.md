@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Eda Verky, tenho 21 anos e sou natural do Pará. Sou apaixonada por tecnologia e jogos.
+Me chamo Eda Verky, tenho 21 anos e sou natural do Pará. Sou uma futura desenvolvedora de software, apaixonada por tecnologia e aprendizado contínuo.
 
 <p align="left">
   <a href="https://github.com/Edaverky">
